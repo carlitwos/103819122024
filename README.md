@@ -12,7 +12,7 @@ https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/5aQUKR",CANAL 11📺
 https://stream.giostreaming.net:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/EcypoS",CANAL 12📺
-https://alba-sv-c12-c12.stream.mediatiquestream.com/live2/alba-sv-c12-c12_720p/chunks.m3u8
+http://star-flix.net:8080/war2rodri/eWfQ3GgvrvFf/1681991
 #EXTINF:-1 tvg-logo="https://acortar.link/fWGQK9",CANAL 17📺
 https://5fc584f3f19c9.streamlock.net/tabertv/videotabertv/chunklist_w1870465371.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/962lNx",CANAL 19📺
