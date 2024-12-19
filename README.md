@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://acortar.link/4qdEpF",CANAL 2📺
-https://telecorporacion-es.cdn.vustreams.com/live/d3e259fa-736d-46b0-b1c9-71caf946ace9/live.isml/live.m3u8
+https://k4livetv.com:443/Raul1234/Raul1234/1070286
 #EXTINF:-1 tvg-logo="https://acortar.link/DnRWl2",CANAL 3📺
 https://cloud2.streaminglivehd.com:1936/8048/8048/chunklist_w1711932051.m3u8
 #EXTINF:-1 tvg-logo="https://acortar.link/iBylbg",CANAL 4📺
